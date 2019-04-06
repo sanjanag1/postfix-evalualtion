@@ -1,5 +1,7 @@
 # postfix-evalualtion
  Stack application: postfix expression evaluation. 
+ 
+ 
  Example1:  - (valid expr) 4 3 - 5 *  
  -- push 4 into stack  -- push 3 into stack 
  -- minus operator (-) detected: pop 3 out of stack, as operand_2 
